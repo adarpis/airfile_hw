@@ -1,0 +1,19 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid b9cd2c94-74b3-41a7-a9aa-5066fb9ac26d)
+
+  (paper "A4")
+
+  (title_block
+    (title "AirFile")
+    (rev "v0.1a")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
