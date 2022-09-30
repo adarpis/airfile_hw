@@ -13,7 +13,26 @@
   )
 
 
+  (sheet (at 109.22 62.23) (size 60.96 54.61) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 20b2fe68-5ae9-4836-b2e7-d8e310410c89)
+    (property "Sheet name" "MCU" (id 0) (at 109.22 61.5184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "mcu.kicad_sch" (id 1) (at 109.22 117.4246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
+    (path "/20b2fe68-5ae9-4836-b2e7-d8e310410c89" (page "2"))
+  )
+
+  (symbol_instances
+    (path "/20b2fe68-5ae9-4836-b2e7-d8e310410c89/0b925525-efeb-400a-af35-d562dc07a180"
+      (reference "U?") (unit 1) (value "ESP32-C3") (footprint "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm")
+    )
   )
 )
