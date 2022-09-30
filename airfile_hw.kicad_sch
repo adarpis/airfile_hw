@@ -31,8 +31,53 @@
   )
 
   (symbol_instances
+    (path "/20b2fe68-5ae9-4836-b2e7-d8e310410c89/75608063-2db6-4fb3-a53d-16fc6930af70"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/20b2fe68-5ae9-4836-b2e7-d8e310410c89/7b05a9c5-b8a2-4c99-86b9-2f3447aad7c8"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/20b2fe68-5ae9-4836-b2e7-d8e310410c89/ac3d8f07-a4e1-4fc8-9931-ac1183ab134f"
+      (reference "#PWR?") (unit 1) (value "VMEM") (footprint "")
+    )
+    (path "/20b2fe68-5ae9-4836-b2e7-d8e310410c89/d498e66c-4999-41dd-bd04-d2e9bf15711e"
+      (reference "#PWR?") (unit 1) (value "VMEM") (footprint "")
+    )
+    (path "/20b2fe68-5ae9-4836-b2e7-d8e310410c89/d5d24406-b5df-4aa4-beb6-bb47655c55bb"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/20b2fe68-5ae9-4836-b2e7-d8e310410c89/fe9a2fde-59e1-4b0f-84f6-397d61ef578e"
+      (reference "#PWR?") (unit 1) (value "VMEM") (footprint "")
+    )
+    (path "/20b2fe68-5ae9-4836-b2e7-d8e310410c89/50842bde-4dd9-4b1f-989b-51b0393f6695"
+      (reference "C?") (unit 1) (value "1uF") (footprint "")
+    )
+    (path "/20b2fe68-5ae9-4836-b2e7-d8e310410c89/7ef90714-8fe4-47ca-aef0-39ce9a4be51a"
+      (reference "C?") (unit 1) (value "100nF") (footprint "")
+    )
+    (path "/20b2fe68-5ae9-4836-b2e7-d8e310410c89/06ac9a0c-9d17-4b7f-ac26-a8c81e5e886c"
+      (reference "R?") (unit 1) (value "10K") (footprint "")
+    )
+    (path "/20b2fe68-5ae9-4836-b2e7-d8e310410c89/18eea348-a6fb-43c7-af2e-0f76a3d31703"
+      (reference "R?") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/20b2fe68-5ae9-4836-b2e7-d8e310410c89/201ee040-ffd5-4b73-bedc-5340ba19f6ce"
+      (reference "R?") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/20b2fe68-5ae9-4836-b2e7-d8e310410c89/31151c70-3667-44da-bf4b-81f3f4468c44"
+      (reference "R?") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/20b2fe68-5ae9-4836-b2e7-d8e310410c89/bdf4992e-03f9-4edd-bca2-a734dab8f4a0"
+      (reference "R?") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/20b2fe68-5ae9-4836-b2e7-d8e310410c89/c2539b3d-ead3-4f2d-ba03-868572b7a95b"
+      (reference "R?") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
     (path "/20b2fe68-5ae9-4836-b2e7-d8e310410c89/0b925525-efeb-400a-af35-d562dc07a180"
       (reference "U?") (unit 1) (value "ESP32-C3") (footprint "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm")
+    )
+    (path "/20b2fe68-5ae9-4836-b2e7-d8e310410c89/a61c9d92-734f-4a36-a9a0-4c417df6649b"
+      (reference "U?") (unit 1) (value "W25Q32JVSS") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
     )
   )
 )
